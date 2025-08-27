@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 JobHub - Modern Job Board Platform
 
 A full-stack job board application built with Next.js, TypeScript, and Tailwind CSS. JobHub connects job seekers with employers through a modern, intuitive interface.
@@ -223,3 +224,7 @@ If you have any questions or need help:
 ---
 
 **Made with ❤️ by the JobHub Team**
+=======
+# jobhub
+A full-stack job board application built with Next.js, TypeScript, and Tailwind CSS. JobHub connects job seekers with employers through a modern, intuitive interface.
+>>>>>>> 2e3232bd8fcfa83325a3f42ceed781d6f337ca32
