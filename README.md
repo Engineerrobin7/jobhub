@@ -1,6 +1,14 @@
 <<<<<<< HEAD
 # 🚀 JobHub - Modern Job Board Platform
 
+[![GitHub stars](https://img.shields.io/github/stars/Engineerrobin7/jobhub?style=social)](https://github.com/Engineerrobin7/jobhub/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Engineerrobin7/jobhub?style=social)](https://github.com/Engineerrobin7/jobhub/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/Engineerrobin7/jobhub)](https://github.com/Engineerrobin7/jobhub/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/Engineerrobin7/jobhub)](https://github.com/Engineerrobin7/jobhub/pulls)
+[![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat&logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat&logo=typescript)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
+
 A full-stack job board application built with Next.js, TypeScript, and Tailwind CSS. JobHub connects job seekers with employers through a modern, intuitive interface.
 
 ## ✨ Features
